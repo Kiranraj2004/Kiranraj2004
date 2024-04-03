@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Kiran Raj, a passionate 19-year-old programmer and problem solver. 🚀
+I'm Kiran Raj, a passionate 20-year-old programmer and problem solver. 🚀
 
 ## About Me
 - 🎓 Computer Science enthusiast
